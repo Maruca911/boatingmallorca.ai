@@ -1,0 +1,31 @@
+{
+  "destinations": {
+    "seoTitle": "Bootsziele & Ankerplatze Mallorca | Boating Mallorca",
+    "seoDesc": "Entdecken Sie die besten Bootsziele und Ankerplatze auf Mallorca. Versteckte Buchten, geschutzte Buchten und malerische Hafen.",
+    "heroTitle": "Ziele & Ankerplatze",
+    "heroSubtitle": "Entdecken Sie Mallorcas beste Bootsziele von lebhaften Hafen bis zu versteckten Buchten."
+  },
+  "marinas": {
+    "seoTitle": "Marinas & Hafen Mallorca - Kompletter Ratgeber | Boating Mallorca",
+    "seoDesc": "Kompletter Ratgeber zu Marinas und Hafen auf Mallorca. Liegeplatzverugbarkeit, Einrichtungen, Preise und Bewertungen.",
+    "heroTitle": "Marinas & Hafen",
+    "heroSubtitle": "Finden Sie die perfekte Marina fur Ihr Boot an Mallorcas Kuste."
+  },
+  "routes": {
+    "seoTitle": "Segelrouten & Reiserouten Mallorca | Boating Mallorca",
+    "seoDesc": "Planen Sie Ihre Mallorca-Segelroute mit detaillierten Reiserouten, Wegpunkten und lokalen Tipps.",
+    "heroTitle": "Segelrouten & Reiserouten",
+    "heroSubtitle": "Kuratierte Segelrouten rund um Mallorca mit detaillierten Wegpunkten und lokalen Einblicken."
+  },
+  "directory": {
+    "seoTitle": "Boots-Verzeichnis Mallorca - Makler, Charter, Services | Boating Mallorca",
+    "seoDesc": "Komplettes Verzeichnis der Bootsunternehmen auf Mallorca. Yachtmakler, Charterunternehmen, Maritime Services und Yachtclubs.",
+    "heroTitle": "Boots-Verzeichnis",
+    "heroSubtitle": "Finden Sie vertrauenswurdige Bootsunternehmen und Dienstleister auf Mallorca.",
+    "brokers": "Yachtmakler & Handler",
+    "charterCompanies": "Charterunternehmen",
+    "brands": "Bootsmarken & Werften",
+    "marineServices": "Maritime Dienstleistungen",
+    "yachtClubs": "Yachtclubs & Verbande"
+  }
+}

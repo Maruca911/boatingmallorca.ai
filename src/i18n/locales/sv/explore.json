@@ -1,0 +1,31 @@
+{
+  "destinations": {
+    "seoTitle": "Batdestinationer och ankringsplatser Mallorca | Boating Mallorca",
+    "seoDesc": "Utforska de basta batdestinationerna och ankringsplatserna pa Mallorca. Gomda vikar, skyddade bukter och maleriska hamnar.",
+    "heroTitle": "Destinationer och ankringsplatser",
+    "heroSubtitle": "Upptack Mallorcas basta batdestinationer fran livliga hamnar till gomda vikar."
+  },
+  "marinas": {
+    "seoTitle": "Marinor och hamnar Mallorca - Komplett guide | Boating Mallorca",
+    "seoDesc": "Komplett guide till marinor och hamnar pa Mallorca. Platstillgang, faciliteter, priser och omdomen.",
+    "heroTitle": "Marinor och hamnar",
+    "heroSubtitle": "Hitta den perfekta marinan for ditt fartyg langs Mallorcas kust."
+  },
+  "routes": {
+    "seoTitle": "Seglingsrutter Mallorca | Boating Mallorca",
+    "seoDesc": "Planera din seglingsrutt pa Mallorca med detaljerade rutter, waypoints och lokala tips.",
+    "heroTitle": "Seglingsrutter",
+    "heroSubtitle": "Utvalda seglingsrutter runt Mallorca med detaljerade waypoints och lokala insikter."
+  },
+  "directory": {
+    "seoTitle": "Batkatalog Mallorca - Maklare, charter, tjanster | Boating Mallorca",
+    "seoDesc": "Komplett katalog over batforetag pa Mallorca. Yachtmaklare, charterforetag, marina tjanster och yachtklubbar.",
+    "heroTitle": "Batkatalog",
+    "heroSubtitle": "Hitta palitliga batforetag och tjanstleverantorer pa Mallorca.",
+    "brokers": "Yachtmaklare",
+    "charterCompanies": "Charterforetag",
+    "brands": "Batmarken och varv",
+    "marineServices": "Marina tjanster",
+    "yachtClubs": "Yachtklubbar"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "rentals": {
+    "seoTitle": "Bootsverleih und Yachtcharter Mallorca - Finden Sie Ihr Boot | Boating Mallorca",
+    "seoDesc": "Vergleichen Sie Bootsverleih und Yachtcharter auf Mallorca. Von Motorbooten bis Luxusyachten - finden Sie das perfekte Schiff fur Ihr Mittelmeerabenteuer.",
+    "heroTitle": "Bootsverleih und Yachtcharter Mallorca",
+    "heroSubtitle": "Finden Sie das perfekte Schiff fur Ihr Mallorca-Abenteuer. Von kleinen Motorbooten bis zu Luxus-Crewed-Yachten vermitteln wir Sie an geprüfte Anbieter.",
+    "heroCta": "Vermittlung fur Verleih",
+    "typesTitle": "Bootsverleih-Typen und Preise",
+    "typesSubtitle": "Mallorca bietet eine umfangreiche Auswahl an Bootsverleihen fur jedes Budget und Erfahrungsniveau. Ob Sie ein einfaches Motorboot fur einen Tag oder eine Luxusyacht fur eine Woche suchen - unser Vermittlungsservice findet die besten Optionen.",
+    "vesselType": "Bootstyp",
+    "location": "Standort",
+    "features": "Ausstattung",
+    "bestFor": "Ideal fur",
+    "charterTitle": "Charter-Optionen erklart",
+    "licenseTitle": "Brauche ich einen Bootsfuhrerschein auf Mallorca?",
+    "licenseText": "In Spanien benotigen Boote uber 6 Meter Lange oder mit Motoren uber 15 PS einen gultigen Bootsscheins. Die am haufigsten akzeptierte internationale Qualifikation ist das ICC (International Certificate of Competence). Fur kleinere Boote und Wasserfahrzeuge unter diesen Grenzen ist kein Schein erforderlich.",
+    "licenseLink": "Vollstandiger Regelwerk-Ratgeber",
+    "locationsTitle": "Verleihstandorte auf Mallorca",
+    "ctaTitle": "Finden Sie Ihren perfekten Bootsverleih oder Charter",
+    "ctaSubtitle": "Sagen Sie uns, was Sie brauchen, und wir vermitteln Sie innerhalb von 24 Stunden an 3 geprüfte Anbieter. Vollig kostenlos.",
+    "ctaButton": "Verleih & Charter vermitteln"
+  },
+  "tours": {
+    "seoTitle": "Bootstouren Mallorca - Sonnenuntergangsfahrten, Tagesausfluge & Exkursionen | Boating Mallorca",
+    "seoDesc": "Entdecken Sie die besten Bootstouren und Ausfluge auf Mallorca. Sonnenuntergangsfahrten, Angelcharter, SUP-Touren und Inselausfluge.",
+    "heroTitle": "Bootstouren Mallorca: Sonnenuntergangsfahrten, Tagesausfluge & Ausfluge",
+    "heroSubtitle": "Erleben Sie Mallorca vom Wasser aus mit gefuhrten Touren, Sonnenuntergangsfahrten, Angelchartern und Abenteuerausfluge.",
+    "heroCta": "Vermittlung fur Touren",
+    "typesTitle": "Tour-Arten",
+    "typesSubtitle": "Mallorca bietet Bootstouren und Wasserausfluge fur jeden Geschmack und jedes Erfahrungsniveau.",
+    "priceTitle": "Preisleitfaden",
+    "tourType": "Tour-Art",
+    "perPerson": "Pro Person (geteilt)",
+    "privateCharter": "Privatcharter",
+    "seasonTitle": "Beste Zeit fur Bootstouren",
+    "activitiesTitle": "Aktivitaten auf dem Wasser",
+    "ctaTitle": "Finden Sie Ihre perfekte Bootstour",
+    "ctaSubtitle": "Sagen Sie uns Ihr ideales Erlebnis und wir vermitteln 3 geprüfte Touranbieter. Kostenlos, schnell und personalisiert.",
+    "ctaButton": "Touren vermitteln"
+  },
+  "mooring": {
+    "seoTitle": "Liegeplatz, Marina & Bootswartung Mallorca | Boating Mallorca",
+    "seoDesc": "Finden Sie Marina-Liegeplatze, Wartungsservices und Winterlager auf Mallorca. Vergleichen Sie Einrichtungen und lassen Sie sich vermitteln.",
+    "heroTitle": "Liegeplatz, Marina & Bootswartung Mallorca",
+    "heroSubtitle": "Finden Sie den perfekten Liegeplatz, zuverlassige Wartung und professionelle Bootspflege. Wir vermitteln vertrauenswurdige Anbieter.",
+    "heroCta": "Vermittlung fur Services"
+  },
+  "events": {
+    "seoTitle": "Bootsevents, Clubs & Wassersport Mallorca | Boating Mallorca",
+    "seoDesc": "Entdecken Sie Yachtclubs, Regatten, Bootspartys und Wassersportveranstaltungen auf Mallorca.",
+    "heroTitle": "Bootsevents, Clubs & Wassersport",
+    "heroSubtitle": "Werden Sie Teil der florierenden Bootsgemeinschaft Mallorcas. Von Weltklasse-Regatten bis zu geselligen Yachtclub-Treffen.",
+    "heroCta": "Vermittlung fur Events"
+  },
+  "buyYacht": {
+    "seoTitle": "Yacht kaufen auf Mallorca - Kompletter Kaufer-Ratgeber | Boating Mallorca",
+    "seoDesc": "Finden und kaufen Sie Ihre Traumyacht auf Mallorca. Expertenratgeber, Marktanalysen, Finanzierungsoptionen und personalisierte Vermittlung.",
+    "heroTitle": "Kaufen Sie Ihre Traumyacht auf Mallorca",
+    "heroSubtitle": "Kompletter Ratgeber zum Yachtkauf, Investitionsanalyse und Vermittlung an verifizierte Verkaufer und Makler.",
+    "heroCta": "Vermittlung an Verkaufer",
+    "typesTitle": "Yachttypen & Preisklassen",
+    "typesSubtitle": "Der Mallorca-Markt bietet vielfaltige Optionen von erschwinglichen RIBs bis zu Luxus-Superyachten.",
+    "buyingTitle": "6-Schritte Kaufprozess",
+    "investTitle": "Yacht als Investition",
+    "investSubtitle": "Viele Kaufer sehen den Yachtbesitz als Lebensstil und Investitionsmoglichkeit. Mallorcas Chartermarkt bietet starke Einkommensmoglichkeiten.",
+    "costsTitle": "Wesentliche Kosten uber den Kaufpreis hinaus",
+    "annualCosts": "Jahrliche Betriebskosten",
+    "oneTimeCosts": "Einmalige Kaufkosten",
+    "locationsTitle": "Beliebte Kaufstandorte auf Mallorca",
+    "readyTitle": "Bereit, Ihr Schiff zu finden?",
+    "readySubtitle": "Unser Vermittlungsservice verbindet Yachtkaufer mit geprüften Verkaufern, Maklern und Finanzierungspartnern auf Mallorca.",
+    "readyCta": "Yachtsuche starten"
+  },
+  "sellYacht": {
+    "seoTitle": "Yacht verkaufen auf Mallorca - Kostenloses Listing & Vermittlung | Boating Mallorca",
+    "seoDesc": "Verkaufen Sie Ihre Yacht auf Mallorca mit unserem kostenlosen Vermittlungs- und Listing-Service.",
+    "heroTitle": "Verkaufen Sie Ihre Yacht auf Mallorca",
+    "heroSubtitle": "Verbinden Sie sich mit verifizierten Kaufern und professionellen Maklern durch unseren kostenlosen Vermittlungsservice.",
+    "heroCta": "Vermittlung an Kaufer"
+  },
+  "crewJobs": {
+    "seoTitle": "Crew-Jobs & Yachtpositionen Mallorca | Boating Mallorca",
+    "seoDesc": "Finden Sie Yacht-Crewpositionen, Kapitansjobs und maritime Karrieremoglichkeiten auf Mallorca.",
+    "heroTitle": "Crew-Jobs & Maritime Karrieren Mallorca",
+    "heroSubtitle": "Entdecken Sie Yacht-Crewpositionen, Kapitansmoglichkeiten und maritime Karrieren in Mallorcas Bootsindustrie.",
+    "heroCta": "Vermittlung an Arbeitgeber"
+  },
+  "ribClub": {
+    "seoTitle": "RIB Club Mallorca - Premium Boots-Mitgliedschaft | Boating Mallorca",
+    "seoDesc": "Treten Sie unserem exklusiven RIB Club bei. Premium-Bootszugang, Mitgliederevents und Gemeinschaft.",
+    "heroTitle": "RIB Club Mallorca",
+    "heroSubtitle": "Premium-Mitgliedschaft fur RIB-Enthusiasten. Gemeinsamer Zugang, exklusive Events und eine Gemeinschaft Gleichgesinnter.",
+    "heroCta": "Uber die Mitgliedschaft"
+  },
+  "faq": {
+    "seoTitle": "Boating Mallorca FAQ - Antworten zu Verleih, Touren, Charter & mehr",
+    "seoDesc": "Antworten auf uber 50 haufig gestellte Fragen zum Bootfahren auf Mallorca.",
+    "heroTitle": "Boating Mallorca FAQ",
+    "heroSubtitle": "Antworten auf Ihre Fragen zu Bootsverleih, Yachtcharter, Touren, Liegeplatz, Lizenzen, Sicherheit und allem rund ums Bootfahren auf Mallorca.",
+    "ctaTitle": "Noch Fragen?",
+    "ctaSubtitle": "Unser Team lokaler Bootsexperten hilft Ihnen gerne. Stellen Sie Ihre Frage und wir antworten innerhalb von 24 Stunden.",
+    "ctaButton": "Fragen Sie uns"
+  },
+  "blog": {
+    "seoTitle": "Boating Blog Mallorca - Expertentipps, Ratgeber & Neuigkeiten | Boating Mallorca",
+    "seoDesc": "Lesen Sie die neuesten Bootstipps, Ratgeber und Neuigkeiten uber Mallorca.",
+    "heroTitle": "Boating Mallorca Blog",
+    "heroSubtitle": "Expertentipps, ausfuhrliche Ratgeber und die neuesten Nachrichten aus Mallorcas Bootsszene."
+  },
+  "getMatched": {
+    "seoTitle": "Kostenlos vermitteln - Bootsverleih, Touren & Charter Mallorca | Boating Mallorca",
+    "seoDesc": "Senden Sie Ihre Bootswünsche und erhalten Sie 3 personalisierte Optionen von geprüften Mallorca-Anbietern innerhalb von 24 Stunden.",
+    "heroTitle": "Finden Sie das beste Bootserlebnis auf Mallorca",
+    "heroSubtitle": "Sagen Sie uns, was Sie suchen, und unsere lokalen Experten stellen 3 personalisierte Optionen von geprüften Anbietern zusammen.",
+    "whyTitle": "Warum unseren Service nutzen",
+    "benefit1Title": "Nur geprüfte Anbieter",
+    "benefit1Text": "Jeder Anbieter in unserem Netzwerk wird von unserem lokalen Team verifiziert und bewertet.",
+    "benefit2Title": "24-Stunden-Bearbeitung",
+    "benefit2Text": "Erhalten Sie 3 personalisierte Optionen innerhalb von 24 Stunden.",
+    "benefit3Title": "100% kostenloser Service",
+    "benefit3Text": "Unser Vermittlungsservice ist fur Sie vollig kostenlos. Keine versteckten Gebühren.",
+    "benefit4Title": "Lokale Expertise",
+    "benefit4Text": "Unser Team lebt und atmet Mallorca-Bootfahren. Wir kennen die besten Anbieter personlich.",
+    "howTitle": "So funktioniert es",
+    "how1": "Fullen Sie das Formular mit Ihren Wunschen aus",
+    "how2": "Unser Team pruft und stellt 3 passende Optionen zusammen",
+    "how3": "Sie erhalten Optionen per E-Mail oder WhatsApp innerhalb von 24 Stunden",
+    "how4": "Wahlen Sie Ihren Favoriten und buchen Sie direkt beim Anbieter"
+  },
+  "privacy": {
+    "title": "Datenschutzerklarung"
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen"
+  },
+  "imprint": {
+    "title": "Impressum"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "subtitle": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "backHome": "Zuruck zur Startseite"
+  }
+}

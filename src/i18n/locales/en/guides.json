@@ -1,0 +1,48 @@
+{
+  "hub": {
+    "seoTitle": "Boating Guides Mallorca - Expert Local Knowledge | Boating Mallorca",
+    "seoDesc": "Comprehensive boating guides for Mallorca. Regulations, costs, weather, fishing, family boating, and more from local experts.",
+    "heroTitle": "Boating Guides",
+    "heroSubtitle": "Practical guides and expert local knowledge to help you make the most of boating in Mallorca."
+  },
+  "regulations": {
+    "title": "Boating Regulations",
+    "subtitle": "Everything you need to know about licenses, rules, and legal requirements for boating in Mallorca."
+  },
+  "costs": {
+    "title": "Boating Costs Guide",
+    "subtitle": "Comprehensive breakdown of boat rental, charter, mooring, and ownership costs in Mallorca."
+  },
+  "weather": {
+    "title": "Weather & Wind Guide",
+    "subtitle": "Seasonal weather patterns, wind conditions, and safety tips for boating in Mallorca."
+  },
+  "beaches": {
+    "title": "Boat-Only Beaches",
+    "subtitle": "Discover Mallorca's most exclusive beaches and coves accessible only by boat."
+  },
+  "dockAndDine": {
+    "title": "Dock & Dine",
+    "subtitle": "The best waterfront restaurants and dining spots accessible by boat across Mallorca."
+  },
+  "snorkeling": {
+    "title": "Snorkeling & Diving",
+    "subtitle": "Best snorkeling and diving spots around Mallorca accessible by boat."
+  },
+  "fishing": {
+    "title": "Fishing Guide",
+    "subtitle": "Complete guide to fishing in Mallorca: species, seasons, regulations, and best spots."
+  },
+  "family": {
+    "title": "Family Boating",
+    "subtitle": "Family-friendly boating tips, destinations, and activities in Mallorca."
+  },
+  "winterStorage": {
+    "title": "Winter Storage",
+    "subtitle": "Guide to winterizing and storing your boat in Mallorca during the off-season."
+  },
+  "provisioning": {
+    "title": "Provisioning Guide",
+    "subtitle": "Where to stock up on food, drinks, and supplies for your boating trip in Mallorca."
+  }
+}

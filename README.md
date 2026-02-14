@@ -1,0 +1,1 @@
+boatingmallorca.ai

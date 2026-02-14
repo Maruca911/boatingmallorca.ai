@@ -1,0 +1,31 @@
+{
+  "destinations": {
+    "seoTitle": "Boating Destinations & Anchorages Mallorca | Boating Mallorca",
+    "seoDesc": "Explore the best boating destinations and anchorages across Mallorca. Hidden coves, sheltered bays, and scenic harbors.",
+    "heroTitle": "Destinations & Anchorages",
+    "heroSubtitle": "Discover Mallorca's best boating destinations from bustling harbors to hidden coves."
+  },
+  "marinas": {
+    "seoTitle": "Marinas & Ports Mallorca - Complete Guide | Boating Mallorca",
+    "seoDesc": "Complete guide to marinas and ports in Mallorca. Berth availability, facilities, pricing, and reviews.",
+    "heroTitle": "Marinas & Ports",
+    "heroSubtitle": "Find the perfect marina for your vessel across Mallorca's coastline."
+  },
+  "routes": {
+    "seoTitle": "Sailing Routes & Itineraries Mallorca | Boating Mallorca",
+    "seoDesc": "Plan your Mallorca sailing route with detailed itineraries, waypoints, and local tips from experienced sailors.",
+    "heroTitle": "Sailing Routes & Itineraries",
+    "heroSubtitle": "Curated sailing routes around Mallorca with detailed waypoints and local insights."
+  },
+  "directory": {
+    "seoTitle": "Boating Directory Mallorca - Brokers, Charters, Services | Boating Mallorca",
+    "seoDesc": "Complete directory of boating businesses in Mallorca. Yacht brokers, charter companies, marine services, and yacht clubs.",
+    "heroTitle": "Boating Directory",
+    "heroSubtitle": "Find trusted boating businesses and service providers across Mallorca.",
+    "brokers": "Yacht Brokers & Dealers",
+    "charterCompanies": "Charter Companies",
+    "brands": "Boat Brands & Builders",
+    "marineServices": "Marine Services",
+    "yachtClubs": "Yacht Clubs & Associations"
+  }
+}

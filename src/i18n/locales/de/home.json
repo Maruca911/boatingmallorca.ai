@@ -1,0 +1,64 @@
+{
+  "seo": {
+    "title": "Boating Mallorca: Bootsverleih, Charter, Touren & Events | Kostenlose Vermittlung",
+    "description": "Finden Sie die besten Bootsverleih, Yachtcharter, Touren und Events auf Mallorca. Unser kostenloser Vermittlungsservice verbindet Sie in 24 Stunden mit gepruften Anbietern."
+  },
+  "hero": {
+    "title": "Boating Mallorca: Bootsverleih, Charter, Touren & Events",
+    "subtitle": "Entdecken Sie die besten Bootstouren, Yachtcharter und Wassererlebnisse auf Palma de Mallorca und daruber hinaus. Unser kostenloser Vermittlungsservice liefert 3 geprüfte Optionen innerhalb von 24 Stunden.",
+    "cta": "Kostenlos vermitteln",
+    "exploreTours": "Touren entdecken"
+  },
+  "trust": {
+    "vetted": "Von Bootsexperten gepruft",
+    "fast": "3 Optionen in 24 Stunden",
+    "free": "100% kostenloser Service",
+    "local": "Lokales Mallorca-Wissen"
+  },
+  "howItWorks": {
+    "title": "So funktioniert es",
+    "subtitle": "Die Vermittlung zum perfekten Bootserlebnis auf Mallorca ist in nur 3 einfachen Schritten erledigt.",
+    "step1Title": "Wunsche eingeben",
+    "step1Desc": "Sagen Sie uns, was Sie suchen: Bootstyp, Standort, Budget, Termine und Gruppengrosse.",
+    "step2Title": "Wir vermitteln geprüfte Anbieter",
+    "step2Desc": "Unsere Experten stellen 3 personalisierte Optionen aus unserem Netzwerk vertrauenswurdiger lokaler Anbieter zusammen.",
+    "step3Title": "Verbinden und buchen",
+    "step3Desc": "Erhalten Sie Ihre Vorschlage innerhalb von 24 Stunden per E-Mail oder WhatsApp. Wahlen Sie Ihren Favoriten und buchen Sie direkt."
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "subtitle": "Von Bootsverleih und Yachtcharter bis hin zu Liegeplatz und Events - wir vermitteln Ihnen die besten maritimen Dienstleistungen auf Mallorca.",
+    "boatRentals": "Bootsverleih",
+    "boatRentalsDesc": "Motorboote, Katamarane, Speedboote und mehr von Marinas auf der ganzen Insel.",
+    "yachtCharters": "Yachtcharter",
+    "yachtChartersDesc": "Bareboat, mit Skipper oder voll besetzt - luxuriose Yachterlebnisse.",
+    "boatTours": "Bootstouren",
+    "boatToursDesc": "Sonnenuntergangsfahrten, Tagesausfluge, Angelausfluge und gefuhrte Abenteuer.",
+    "excursions": "Ausfluge",
+    "excursionsDesc": "Kajakfahren, SUP-Touren, Schnorcheln und Inselhopping rund um Mallorca.",
+    "mooringMaint": "Liegeplatz & Wartung",
+    "mooringMaintDesc": "Marina-Liegeplatze, Bootslagerung, Winterfestmachung und Reparaturen.",
+    "eventClubs": "Events & Clubs",
+    "eventClubsDesc": "Bootspartys, Regatten, Yachtclubs und Wassersportaktivitaten."
+  },
+  "destinations": {
+    "title": "Beliebte Bootsziele",
+    "subtitle": "Mallorca bietet vielfaltige Bootserlebnisse von lebhaften Hafen bis zu abgelegenen Buchten.",
+    "palma": "Palma de Mallorca",
+    "palmaDesc": "Die Hauptstadt und Hauptcharter-Hub mit Luxusmarinas und einfachem Flughafenzugang.",
+    "alcudia": "Alcudia",
+    "alcudiaDesc": "Geschutzte Bucht, perfekt fur Familien, Wassersport und Anfanger.",
+    "pollenca": "Port de Pollenca",
+    "pollencaDesc": "Charmanter Nordhafen mit hervorragenden Segelbedingungen und Bergblick.",
+    "andratx": "Andratx",
+    "andratxDesc": "Westliches Tor zur dramatischen Tramuntana-Kuste und Dracheninsel."
+  },
+  "guides": {
+    "title": "Bootsfahrer-Ratgeber",
+    "subtitle": "Praktische Ratgeber und lokales Wissen, damit Sie das Beste aus Ihrer Zeit auf dem Wasser machen."
+  },
+  "blog": {
+    "title": "Aus dem Blog",
+    "subtitle": "Expertentipps, Ratgeber und Einblicke fur Ihr Mallorca-Bootsabenteuer."
+  }
+}

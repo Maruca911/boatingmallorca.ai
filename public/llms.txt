@@ -1,0 +1,119 @@
+# Boating Mallorca
+
+> Free matching service for boat rentals, yacht charters, tours, excursions, mooring, maintenance, and events in Mallorca, Spain.
+
+## About
+
+Boating Mallorca (boatingmallorca.ai) is a free lead-matching service based in Palma de Mallorca, Spain. Users submit their preferences (boat type, location, budget, dates, group size) and receive 3 personalized options from vetted local providers within 24 hours via email or WhatsApp. The service is completely free for users.
+
+## Services
+
+- **Boat Rentals & Charters** (/rentals-charters): Motorboats, catamarans, speed boats, sailing yachts, fishing boats. Bareboat, skippered, and crewed charters. Prices from 100 EUR/day (small motorboat) to 10,000+ EUR/week (crewed superyacht).
+- **Tours & Excursions** (/tours-excursions): Sunset cruises, day trips, fishing charters, SUP/kayak tours, island excursions. Prices from 35 EUR/person (SUP tour) to 1,500 EUR/boat (private charter).
+- **Mooring & Maintenance** (/mooring-maintenance): Marina berths, boat storage, winterizing, haul-out, antifouling, engine repairs.
+- **Events & Clubs** (/events-clubs): Boat parties, regattas (Copa del Rey, PalmaVela), yacht clubs, water sports.
+- **Buy a Yacht** (/buy-yacht): New and pre-owned yacht purchasing guidance and broker matching.
+- **Sell a Yacht** (/sell-yacht): Yacht listing, valuation, and broker matching for sellers.
+- **Crew & Jobs** (/crew-jobs): Maritime crew positions and job listings in Mallorca.
+- **RIB Club** (/rib-club): Premium RIB boating experiences and membership.
+
+## Explore Mallorca
+
+### Destinations & Anchorages (/explore/destinations)
+10 detailed boating destination guides covering the full island:
+- Palma de Mallorca: Main charter hub with 5 major marinas and largest fleet selection.
+- Alcudia Bay: Sheltered waters ideal for families, beginners, and water sports.
+- Port de Pollenca: Premier sailing location with consistent thermal winds and mountain views.
+- Andratx & Dragonera Island: Dramatic west coast with Sa Dragonera natural park.
+- Cala d'Or & Southeast Coast: Turquoise coves perfect for cove-hopping and snorkeling.
+- Soller & Northwest Coast: UNESCO Tramuntana cliffs, Sa Calobra, advanced sailing territory.
+- Cabrera Archipelago National Park: Protected marine park with Blue Grotto, permits required.
+- Cala Ratjada & Capdepera: Fishing port with excellent deep-sea fishing and east coast coves.
+- Magaluf & Calvia Coast: Party boats, group catamaran tours, Portals Vells caves.
+- Hidden Coves of Mallorca: Secret anchorages only accessible by boat.
+
+### Marinas & Ports (/explore/marinas)
+10 marina guides with berth counts, max lengths, facilities, and pricing:
+- Port Adriano: Philippe Starck-designed, 439 berths, up to 80m, superyacht focus.
+- Marina Port de Mallorca: Central Palma, 275 berths, customs clearance.
+- Real Club Nautico de Palma: 1,025 berths, Copa del Rey host, sailing school.
+- Puerto Portals: 670 berths, luxury lifestyle marina, designer boutiques.
+- Club de Mar: 625 berths, up to 90m, largest Balearic boatyard (300-ton lift).
+- Marina de Alcudia: 750 berths, family-friendly, affordable, northern Mallorca.
+- Port de Pollenca Marina: 375 berths, premier sailing community.
+- Portocolom Harbor: 450 berths, largest natural harbor, traditional fishing port.
+- Mallorca Marina Comparison: Side-by-side comparison of all major marinas.
+- Superyacht Berths: Premium berths for vessels 30m+ across Palma marinas.
+
+### Sailing Routes & Itineraries (/explore/routes)
+10 detailed sailing routes with day-by-day itineraries:
+- 7-Day Full Island Circuit: 180 NM circumnavigation, intermediate, all coasts.
+- 3-Day Southwest Coast: 35 NM, beginner-friendly, Palma to Andratx via Portals Vells.
+- Mallorca to Menorca Crossing: 30 NM, intermediate, Pollenca to Ciutadella.
+- Mallorca to Ibiza Route: 70 NM, advanced, overnight open-water passage.
+- Palma to Cabrera Day Trip: 55 NM round trip, national park excursion.
+- East Coast Explorer (3-4 Days): 35 NM, beginner, turquoise cove paradise.
+- North Coast Adventure: 20 NM, intermediate, Cap de Formentor rounding.
+- Best Overnight Anchorages: 10 proven overnight spots around the island.
+- Beginner-Friendly Routes: 4 easy routes in sheltered waters.
+- Catamaran Cruising Itineraries: Routes optimized for catamaran advantages.
+
+## Boating Directory (/directory)
+
+### Yacht Brokers & Dealers (/directory/brokers)
+- Top Yacht Brokers in Mallorca: Finding and choosing brokers, commission rates (5-10%).
+- New Yacht Dealers: Authorized dealerships for Beneteau, Jeanneau, Bavaria, Lagoon, etc.
+- Pre-Owned Yacht Market Guide: Market overview, essential surveys, pricing trends.
+
+### Charter Companies (/directory/charter-companies)
+- Best Charter Companies: Overview of 100+ operators, fleet types, how to choose.
+- Bareboat Operators: Self-skippered charters, ICC/RYA license requirements, pricing 1,500-6,000 EUR/week.
+- Luxury Crewed Charters: Full-service with captain, chef, stewardess, 10,000-200,000+ EUR/week.
+- Fishing Charter Companies: Deep-sea and inshore, 400-1,500 EUR/day, seasonal species guide.
+
+### Boat Brands & Builders (/directory/brands)
+- Sunseeker Yachts in Mallorca: British luxury motor yachts, 48-131ft.
+- Beneteau Boats Mallorca: Oceanis sailing yachts, Gran Turismo motorboats.
+- Lagoon Catamarans Mallorca: World's leading catamaran brand, 40-77ft.
+- Electric & Hybrid Boats: Zero-emission boating, silent running, rental availability.
+
+### Marine Services (/directory/marine-services)
+- Boat Repair Yards: STP Palma (300-ton lift), Club de Mar boatyard, labor rates 45-85 EUR/hr.
+- Marine Surveyors: Pre-purchase, insurance, and damage surveys, 1,500-5,000 EUR.
+- Sailing Schools & Licenses: ICC, RYA Day Skipper, Yachtmaster courses, 400-4,000 EUR.
+- Yacht Transport & Shipping: Delivery crew, road transport, semi-submersible options.
+- Marine Insurance: Third-party (mandatory), comprehensive, premiums 1-3% of vessel value.
+
+### Yacht Clubs & Associations (/directory/yacht-clubs)
+- Yacht Clubs of Mallorca: 20+ clubs, membership 300-2,000 EUR/year.
+- Junior Sailing & Youth Programs: Children's courses from age 6, 200-500 EUR/week.
+
+## Key Locations
+
+Palma de Mallorca, Alcudia, Port de Pollenca, Cala Ratjada, Cala d'Or, Andratx, Port Adriano, Soller, Magaluf, Calvia, Portocolom, Cabrera, Santa Ponsa, Puerto Portals.
+
+## Pricing Summary
+
+- Small motorboat rental (no license): 100-400 EUR/day
+- Speed boat / catamaran rental: 200-1,500 EUR/day
+- Bareboat yacht charter: 1,500-6,000 EUR/week
+- Skippered yacht charter: 2,500-8,000 EUR/week
+- Crewed yacht charter: 10,000-200,000+ EUR/week
+- Sunset cruise (shared): 55-85 EUR/person
+- Fishing charter (half day): 400-600 EUR/boat
+- SUP/kayak tour: 35-60 EUR/person
+- Marina berth: 12-400+ EUR/day (size and location dependent)
+
+## FAQ
+
+50+ frequently asked questions covering boat licenses, pricing, best times to visit, booking, safety, and more. Available at /faq.
+
+## Blog
+
+Expert guides, insider tips, and seasonal content covering Mallorca boating experiences. Available at /blog.
+
+## Contact
+
+- Email: hello@boatingmallorca.ai
+- Location: Palma de Mallorca, Spain
+- Website: https://boatingmallorca.ai

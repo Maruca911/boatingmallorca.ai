@@ -1,0 +1,64 @@
+{
+  "seo": {
+    "title": "Boating Mallorca: Verhuur, Charter, Tours en Evenementen | Gratis Matching",
+    "description": "Vind de beste bootverhuur, jachtcharters, tours en evenementen op Mallorca. Onze gratis matchingservice verbindt u met geverifieerde aanbieders binnen 24 uur."
+  },
+  "hero": {
+    "title": "Boating Mallorca: Verhuur, charter, tours en evenementen",
+    "subtitle": "Ontdek de beste boottours, jachtcharters en wateractiviteiten op Palma de Mallorca en daarbuiten. Onze gratis matchingservice levert 3 geverifieerde opties binnen 24 uur.",
+    "cta": "Gratis matchen",
+    "exploreTours": "Ontdek tours"
+  },
+  "trust": {
+    "vetted": "Geverifieerd door bootexperts",
+    "fast": "3 opties binnen 24 uur",
+    "free": "100% gratis service",
+    "local": "Lokale Mallorca-kennis"
+  },
+  "howItWorks": {
+    "title": "Zo werkt het",
+    "subtitle": "De perfecte bootervaring op Mallorca vinden kost slechts 3 eenvoudige stappen.",
+    "step1Title": "Stuur uw wensen",
+    "step1Desc": "Vertel ons wat u zoekt: boottype, locatie, budget, data en groepsgrootte.",
+    "step2Title": "Wij matchen u met geverifieerde aanbieders",
+    "step2Desc": "Onze experts selecteren 3 persoonlijke opties uit ons netwerk van betrouwbare lokale aanbieders.",
+    "step3Title": "Verbind en boek",
+    "step3Desc": "Ontvang uw suggesties binnen 24 uur per e-mail of WhatsApp. Kies uw favoriet en boek direct."
+  },
+  "services": {
+    "title": "Onze diensten",
+    "subtitle": "Van bootverhuur en jachtcharter tot ligplaats en evenementen - wij matchen u met de beste maritieme diensten op Mallorca.",
+    "boatRentals": "Bootverhuur",
+    "boatRentalsDesc": "Motorboten, catamarans, speedboten en meer vanuit jachthavens over het hele eiland.",
+    "yachtCharters": "Jachtcharter",
+    "yachtChartersDesc": "Bareboat, met schipper of met volledige bemanning - luxe jachtervaringen.",
+    "boatTours": "Boottours",
+    "boatToursDesc": "Zonsondergangcruises, dagtochten, visuitstapjes en begeleide avonturen.",
+    "excursions": "Excursies",
+    "excursionsDesc": "Kajakken, SUP-tours, snorkelen en eilandhoppen rond Mallorca.",
+    "mooringMaint": "Ligplaats en onderhoud",
+    "mooringMaintDesc": "Jachthavenplaatsen, bootopslag, winterstalling en reparatiediensten.",
+    "eventClubs": "Evenementen en clubs",
+    "eventClubsDesc": "Bootfeesten, regatta's, jachtclubs en watersportactiviteiten."
+  },
+  "destinations": {
+    "title": "Populaire bootbestemmingen",
+    "subtitle": "Mallorca biedt diverse bootervaringen van bruisende jachthavens tot afgelegen baaien.",
+    "palma": "Palma de Mallorca",
+    "palmaDesc": "De hoofdstad en belangrijkste chartercentrum met luxe jachthavens en gemakkelijke luchthavantoegang.",
+    "alcudia": "Alcudia",
+    "alcudiaDesc": "Beschutte baai perfect voor gezinnen, watersport en beginners.",
+    "pollenca": "Port de Pollenca",
+    "pollencaDesc": "Charmante noordelijke haven met uitstekende zeilomstandigheden en bergzicht.",
+    "andratx": "Andratx",
+    "andratxDesc": "Westelijke poort naar de dramatische Tramuntana-kust en het eiland Dragonera."
+  },
+  "guides": {
+    "title": "Bootgidsen",
+    "subtitle": "Praktische gidsen en lokale kennis om het meeste uit uw tijd op het water te halen."
+  },
+  "blog": {
+    "title": "Uit de blog",
+    "subtitle": "Experttips, gidsen en inzichten voor uw Mallorca-bootavontuur."
+  }
+}

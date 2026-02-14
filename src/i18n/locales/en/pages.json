@@ -1,0 +1,144 @@
+{
+  "rentals": {
+    "seoTitle": "Boat Rentals and Yacht Charters Mallorca - Find Your Vessel | Boating Mallorca",
+    "seoDesc": "Compare boat rentals and yacht charters in Mallorca. From motorboats to luxury yachts, find the perfect vessel for your Mediterranean adventure. Free matching service.",
+    "heroTitle": "Boat Rentals and Yacht Charters Mallorca",
+    "heroSubtitle": "Find the perfect vessel for your Mallorca adventure. From small motorboats to luxury crewed yachts, we match you with vetted providers across the island.",
+    "heroCta": "Get Matched With Rentals",
+    "typesTitle": "Boat Rental Types and Pricing",
+    "typesSubtitle": "Mallorca offers an extensive range of boat rentals to suit every budget and experience level. Whether you are looking for a simple motorboat for a day of cove-hopping or a luxury yacht charter for a week-long sailing holiday, our matching service finds the best options for you.",
+    "vesselType": "Vessel Type",
+    "location": "Location",
+    "features": "Features",
+    "bestFor": "Best For",
+    "charterTitle": "Charter Options Explained",
+    "licenseTitle": "Do I Need a Boat License in Mallorca?",
+    "licenseText": "In Spain, boats over 6 meters in length or with engines exceeding 15 horsepower require a valid nautical license. The most commonly accepted international qualification is the ICC (International Certificate of Competence). For smaller boats and watercraft below these limits, no license is needed. Our matching service only connects you with providers who clearly communicate licensing requirements and ensure full compliance.",
+    "licenseLink": "Full Regulations Guide",
+    "locationsTitle": "Rental Locations Across Mallorca",
+    "ctaTitle": "Find Your Perfect Boat Rental or Charter",
+    "ctaSubtitle": "Tell us what you need and we will match you with 3 vetted providers within 24 hours. Completely free.",
+    "ctaButton": "Match Rentals & Charters"
+  },
+  "tours": {
+    "seoTitle": "Boat Tours Mallorca - Sunset Cruises, Day Trips & Excursions | Boating Mallorca",
+    "seoDesc": "Discover the best boat tours and excursions in Mallorca. Sunset cruises, fishing charters, SUP tours, and island excursions. Compare prices and book your adventure.",
+    "heroTitle": "Boat Tours Mallorca: Sunset Cruises, Day Trips & Excursions",
+    "heroSubtitle": "Experience Mallorca from the water with guided tours, sunset cruises, fishing charters, and adventure excursions. We match you with the best operators on the island.",
+    "heroCta": "Get Matched With Tours",
+    "typesTitle": "Tour Types",
+    "typesSubtitle": "Mallorca offers boat tours and water excursions for every interest and experience level. From romantic sunset cruises to adrenaline-fueled fishing charters, discover the perfect way to explore the Mediterranean.",
+    "priceTitle": "Price Guide",
+    "tourType": "Tour Type",
+    "perPerson": "Per Person (Shared)",
+    "privateCharter": "Private Charter",
+    "seasonTitle": "Best Time for Boat Tours",
+    "activitiesTitle": "Activities on the Water",
+    "ctaTitle": "Find Your Perfect Boat Tour",
+    "ctaSubtitle": "Tell us your ideal experience and we will match you with 3 vetted tour operators. Free, fast, and personalized.",
+    "ctaButton": "Match Me With Tours"
+  },
+  "mooring": {
+    "seoTitle": "Mooring, Marina & Boat Maintenance Mallorca | Boating Mallorca",
+    "seoDesc": "Find marina berths, mooring services, boat maintenance, and winter storage in Mallorca. Compare facilities and get matched with the best providers.",
+    "heroTitle": "Mooring, Marina & Boat Maintenance Mallorca",
+    "heroSubtitle": "Find the perfect berth, reliable maintenance, and professional boat care across the island. We match you with trusted providers.",
+    "heroCta": "Get Matched With Services"
+  },
+  "events": {
+    "seoTitle": "Boating Events, Clubs & Water Sports Mallorca | Boating Mallorca",
+    "seoDesc": "Discover yacht clubs, regattas, boat parties, and water sports events across Mallorca. Join the boating community.",
+    "heroTitle": "Boating Events, Clubs & Water Sports",
+    "heroSubtitle": "Join Mallorca's thriving boating community. From world-class regattas to casual yacht club socials and water sports.",
+    "heroCta": "Get Matched With Events"
+  },
+  "buyYacht": {
+    "seoTitle": "Buy a Yacht in Mallorca - Complete Buyer's Guide | Boating Mallorca",
+    "seoDesc": "Find and purchase your dream yacht in Mallorca. Expert buyer's guide, market insights, financing options, and personalized matching for vessel purchases.",
+    "heroTitle": "Buy Your Dream Yacht in Mallorca",
+    "heroSubtitle": "Complete guide to yacht purchase, investment analysis, and connection with verified sellers and brokers. Find the perfect vessel backed by expert guidance.",
+    "heroCta": "Get Matched With Sellers",
+    "typesTitle": "Yacht Types & Price Ranges",
+    "typesSubtitle": "Mallorca's market offers diverse options from affordable RIBs to luxury superyachts. Each vessel type serves different purposes, ownership styles, and investment profiles.",
+    "buyingTitle": "6-Step Buying Process",
+    "investTitle": "Yacht as Investment",
+    "investSubtitle": "Many buyers view yacht ownership as both a lifestyle and investment opportunity. Mallorca's charter market offers strong income potential for owners willing to participate in fractional ownership or charter management programs.",
+    "costsTitle": "Essential Costs Beyond Purchase Price",
+    "annualCosts": "Annual Ownership Costs",
+    "oneTimeCosts": "One-Time Purchase Costs",
+    "locationsTitle": "Popular Mallorca Purchase Locations",
+    "readyTitle": "Ready to Find Your Vessel?",
+    "readySubtitle": "Our matching service connects yacht buyers with vetted sellers, brokers, and financing partners across Mallorca. Get personalized options based on your budget, preferences, and investment goals.",
+    "readyCta": "Start Your Yacht Search"
+  },
+  "sellYacht": {
+    "seoTitle": "Sell Your Yacht in Mallorca - Free Listing & Matching | Boating Mallorca",
+    "seoDesc": "Sell your yacht in Mallorca with our free matching and listing service. Connect with verified buyers and brokers.",
+    "heroTitle": "Sell Your Yacht in Mallorca",
+    "heroSubtitle": "Connect with verified buyers and professional brokers through our free matching service. Get your vessel in front of the right audience.",
+    "heroCta": "Get Matched With Buyers"
+  },
+  "crewJobs": {
+    "seoTitle": "Crew Jobs & Yacht Positions Mallorca | Boating Mallorca",
+    "seoDesc": "Find yacht crew positions, captain jobs, and maritime career opportunities in Mallorca. Connect with employers.",
+    "heroTitle": "Crew Jobs & Maritime Careers Mallorca",
+    "heroSubtitle": "Explore yacht crew positions, captain opportunities, and maritime careers across Mallorca's boating industry.",
+    "heroCta": "Get Matched With Opportunities"
+  },
+  "ribClub": {
+    "seoTitle": "RIB Club Mallorca - Premium Boat Membership | Boating Mallorca",
+    "seoDesc": "Join our exclusive RIB Club for premium boat access, member events, and shared ownership in Mallorca.",
+    "heroTitle": "RIB Club Mallorca",
+    "heroSubtitle": "Premium membership for RIB enthusiasts. Shared access, exclusive events, and a community of like-minded boaters.",
+    "heroCta": "Learn About Membership"
+  },
+  "faq": {
+    "seoTitle": "Boating Mallorca FAQ - Answers to Rentals, Tours, Charters & More",
+    "seoDesc": "Answers to 50+ frequently asked questions about boating in Mallorca. Boat rentals, yacht charters, tours, mooring, licensing, safety, and more.",
+    "heroTitle": "Boating Mallorca FAQ",
+    "heroSubtitle": "Answers to your questions about boat rentals, yacht charters, tours, mooring, licensing, safety, and everything else about boating in Mallorca.",
+    "ctaTitle": "Still Have Questions?",
+    "ctaSubtitle": "Our team of local boating experts is here to help. Submit your question and we will get back to you within 24 hours.",
+    "ctaButton": "Ask Us Anything"
+  },
+  "blog": {
+    "seoTitle": "Boating Blog Mallorca - Expert Tips, Guides & News | Boating Mallorca",
+    "seoDesc": "Read the latest boating tips, guides, and news about Mallorca. Expert insights for sailors, yacht owners, and water sports enthusiasts.",
+    "heroTitle": "Boating Mallorca Blog",
+    "heroSubtitle": "Expert tips, in-depth guides, and the latest news from Mallorca's boating scene."
+  },
+  "getMatched": {
+    "seoTitle": "Get Matched Free - Boat Rentals, Tours & Charters Mallorca | Boating Mallorca",
+    "seoDesc": "Submit your boating preferences and receive 3 personalized options from vetted Mallorca providers within 24 hours. Completely free matching service.",
+    "heroTitle": "Get Matched With the Best Boating in Mallorca",
+    "heroSubtitle": "Tell us what you are looking for and our local experts will curate 3 personalized options from vetted providers, delivered to you within 24 hours.",
+    "whyTitle": "Why Use Our Service",
+    "benefit1Title": "Vetted Providers Only",
+    "benefit1Text": "Every provider in our network is verified and reviewed by our local team.",
+    "benefit2Title": "24-Hour Turnaround",
+    "benefit2Text": "Receive 3 personalized options within 24 hours of submitting your request.",
+    "benefit3Title": "100% Free Service",
+    "benefit3Text": "Our matching service is completely free for you. No hidden fees, ever.",
+    "benefit4Title": "Local Expertise",
+    "benefit4Text": "Our team lives and breathes Mallorca boating. We know the best providers personally.",
+    "howTitle": "How It Works",
+    "how1": "Fill out the form with your preferences",
+    "how2": "Our team reviews and curates 3 matching options",
+    "how3": "You receive options via email or WhatsApp within 24 hours",
+    "how4": "Choose your favorite and book directly with the provider"
+  },
+  "privacy": {
+    "title": "Privacy Policy"
+  },
+  "terms": {
+    "title": "Terms of Service"
+  },
+  "imprint": {
+    "title": "Imprint"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "subtitle": "The page you are looking for does not exist or has been moved.",
+    "backHome": "Back to Home"
+  }
+}

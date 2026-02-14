@@ -1,0 +1,64 @@
+{
+  "seo": {
+    "title": "Boating Mallorca: Rentals, Charters, Tours & Events | Free Matching",
+    "description": "Find the best boat rentals, yacht charters, tours, and events in Mallorca. Free matching service connects you with vetted providers in 24 hours."
+  },
+  "hero": {
+    "title": "Boating Mallorca: Find Rentals, Charters, Tours & Events",
+    "subtitle": "Discover the best boat tours, yacht charters, and water experiences in Palma de Mallorca and beyond. Our free matching service delivers 3 vetted options to your inbox within 24 hours.",
+    "cta": "Get Matched Free",
+    "exploreTours": "Explore Tours"
+  },
+  "trust": {
+    "vetted": "Vetted by Boating Experts",
+    "fast": "3 Options in 24 Hours",
+    "free": "100% Free Service",
+    "local": "Local Mallorca Knowledge"
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Getting matched with the perfect boating experience in Mallorca takes just 3 simple steps.",
+    "step1Title": "Submit Your Preferences",
+    "step1Desc": "Tell us what you are looking for: boat type, location, budget, dates, and group size.",
+    "step2Title": "We Match You With Vetted Providers",
+    "step2Desc": "Our experts curate 3 personalized options from our network of trusted local providers.",
+    "step3Title": "Connect and Book",
+    "step3Desc": "Receive your matches within 24 hours via email or WhatsApp. Choose your favorite and book directly."
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "From boat rentals and yacht charters to mooring and events, we match you with the best maritime services in Mallorca.",
+    "boatRentals": "Boat Rentals",
+    "boatRentalsDesc": "Motorboats, catamarans, speed boats, and more from marinas across the island.",
+    "yachtCharters": "Yacht Charters",
+    "yachtChartersDesc": "Bareboat, skippered, or fully crewed luxury yacht experiences.",
+    "boatTours": "Boat Tours",
+    "boatToursDesc": "Sunset cruises, day trips, fishing excursions, and guided adventures.",
+    "excursions": "Excursions",
+    "excursionsDesc": "Kayaking, SUP tours, snorkeling, and island hopping around Mallorca.",
+    "mooringMaint": "Mooring & Maintenance",
+    "mooringMaintDesc": "Marina berths, boat storage, winterizing, and repair services.",
+    "eventClubs": "Events & Clubs",
+    "eventClubsDesc": "Boat parties, regattas, yacht clubs, and water sports activities."
+  },
+  "destinations": {
+    "title": "Popular Boating Destinations",
+    "subtitle": "Mallorca offers diverse boating experiences from bustling marinas to secluded coves.",
+    "palma": "Palma de Mallorca",
+    "palmaDesc": "The capital and main charter hub with luxury marinas and easy airport access.",
+    "alcudia": "Alcudia",
+    "alcudiaDesc": "Sheltered bay perfect for families, water sports, and beginner sailors.",
+    "pollenca": "Port de Pollenca",
+    "pollencaDesc": "Charming northern port with excellent sailing conditions and mountain views.",
+    "andratx": "Andratx",
+    "andratxDesc": "Western gateway to the dramatic Tramuntana coast and Dragonera island."
+  },
+  "guides": {
+    "title": "Boating Guides",
+    "subtitle": "Practical guides and local knowledge to help you make the most of your time on the water."
+  },
+  "blog": {
+    "title": "From the Blog",
+    "subtitle": "Expert tips, guides, and insights for your Mallorca boating adventure."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "destinations": {
+    "seoTitle": "Bootbestemmingen en ankerplaatsen Mallorca | Boating Mallorca",
+    "seoDesc": "Ontdek de beste bootbestemmingen en ankerplaatsen op Mallorca. Verborgen baaien, beschutte havens en schilderachtige locaties.",
+    "heroTitle": "Bestemmingen en ankerplaatsen",
+    "heroSubtitle": "Ontdek Mallorca's beste bootbestemmingen van bruisende havens tot verborgen baaien."
+  },
+  "marinas": {
+    "seoTitle": "Jachthavens en havens Mallorca - Complete gids | Boating Mallorca",
+    "seoDesc": "Complete gids voor jachthavens en havens op Mallorca. Beschikbaarheid, faciliteiten, prijzen en beoordelingen.",
+    "heroTitle": "Jachthavens en havens",
+    "heroSubtitle": "Vind de perfecte jachthaven voor uw vaartuig langs de kust van Mallorca."
+  },
+  "routes": {
+    "seoTitle": "Zeilroutes Mallorca | Boating Mallorca",
+    "seoDesc": "Plan uw zeilroute op Mallorca met gedetailleerde routes, waypoints en lokale tips.",
+    "heroTitle": "Zeilroutes",
+    "heroSubtitle": "Geselecteerde zeilroutes rond Mallorca met gedetailleerde waypoints en lokale inzichten."
+  },
+  "directory": {
+    "seoTitle": "Bootgids Mallorca - Makelaars, charter, diensten | Boating Mallorca",
+    "seoDesc": "Complete gids van bootbedrijven op Mallorca. Jachtmakelaars, charterbedrijven, maritieme diensten en jachtclubs.",
+    "heroTitle": "Bootgids",
+    "heroSubtitle": "Vind betrouwbare bootbedrijven en dienstverleners op Mallorca.",
+    "brokers": "Jachtmakelaars",
+    "charterCompanies": "Charterbedrijven",
+    "brands": "Bootmerken en werven",
+    "marineServices": "Maritieme diensten",
+    "yachtClubs": "Jachtclubs"
+  }
+}

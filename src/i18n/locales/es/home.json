@@ -1,0 +1,64 @@
+{
+  "seo": {
+    "title": "Boating Mallorca: Alquiler, Charter, Tours y Eventos | Busqueda Gratuita",
+    "description": "Encuentre los mejores alquileres de barcos, charters de yates, tours y eventos en Mallorca. Servicio gratuito de busqueda que le conecta con proveedores verificados en 24 horas."
+  },
+  "hero": {
+    "title": "Boating Mallorca: Alquiler, Charter, Tours y Eventos",
+    "subtitle": "Descubra los mejores tours en barco, charters de yates y experiencias acuaticas en Palma de Mallorca y mas alla. Nuestro servicio gratuito le ofrece 3 opciones verificadas en 24 horas.",
+    "cta": "Encontrar gratis",
+    "exploreTours": "Explorar tours"
+  },
+  "trust": {
+    "vetted": "Verificado por expertos nauticos",
+    "fast": "3 opciones en 24 horas",
+    "free": "Servicio 100% gratuito",
+    "local": "Conocimiento local de Mallorca"
+  },
+  "howItWorks": {
+    "title": "Como funciona",
+    "subtitle": "Encontrar la experiencia nautica perfecta en Mallorca solo requiere 3 sencillos pasos.",
+    "step1Title": "Envie sus preferencias",
+    "step1Desc": "Diganos lo que busca: tipo de barco, ubicacion, presupuesto, fechas y tamano del grupo.",
+    "step2Title": "Le buscamos proveedores verificados",
+    "step2Desc": "Nuestros expertos seleccionan 3 opciones personalizadas de nuestra red de proveedores locales de confianza.",
+    "step3Title": "Conecte y reserve",
+    "step3Desc": "Reciba sus opciones en 24 horas por email o WhatsApp. Elija su favorito y reserve directamente."
+  },
+  "services": {
+    "title": "Nuestros servicios",
+    "subtitle": "Desde alquiler de barcos y charter de yates hasta amarre y eventos, le conectamos con los mejores servicios nauticos de Mallorca.",
+    "boatRentals": "Alquiler de barcos",
+    "boatRentalsDesc": "Lanchas, catamaranes, lanchas rapidas y mas desde puertos de toda la isla.",
+    "yachtCharters": "Charter de yates",
+    "yachtChartersDesc": "Bareboat, con patron o con tripulacion completa para experiencias de lujo.",
+    "boatTours": "Tours en barco",
+    "boatToursDesc": "Cruceros al atardecer, excursiones de un dia, pesca y aventuras guiadas.",
+    "excursions": "Excursiones",
+    "excursionsDesc": "Kayak, SUP, snorkel e island hopping alrededor de Mallorca.",
+    "mooringMaint": "Amarre y mantenimiento",
+    "mooringMaintDesc": "Amarres en puertos, almacenamiento, invernaje y servicios de reparacion.",
+    "eventClubs": "Eventos y clubs",
+    "eventClubsDesc": "Fiestas en barco, regatas, clubs nauticos y actividades acuaticas."
+  },
+  "destinations": {
+    "title": "Destinos nauticos populares",
+    "subtitle": "Mallorca ofrece diversas experiencias nauticas, desde puertos animados hasta calas escondidas.",
+    "palma": "Palma de Mallorca",
+    "palmaDesc": "La capital y principal centro de charter con puertos de lujo y facil acceso al aeropuerto.",
+    "alcudia": "Alcudia",
+    "alcudiaDesc": "Bahia protegida perfecta para familias, deportes acuaticos y navegantes principiantes.",
+    "pollenca": "Port de Pollenca",
+    "pollencaDesc": "Encantador puerto del norte con excelentes condiciones de navegacion y vistas a la montana.",
+    "andratx": "Andratx",
+    "andratxDesc": "Puerta occidental a la dramatica costa de Tramuntana y la isla Dragonera."
+  },
+  "guides": {
+    "title": "Guias nauticas",
+    "subtitle": "Guias practicas y conocimiento local para aprovechar al maximo su tiempo en el agua."
+  },
+  "blog": {
+    "title": "Del blog",
+    "subtitle": "Consejos de expertos, guias e informacion para su aventura nautica en Mallorca."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "seo": {
+    "title": "Boating Mallorca: Uthyrning, Charter, Turer och Evenemang | Gratis matchning",
+    "description": "Hitta de basta batuthyrningarna, yachtchartrarna, turerna och evenemangen pa Mallorca. Var gratis matchningstjanst kopplar dig till verifierade leverantorer inom 24 timmar."
+  },
+  "hero": {
+    "title": "Boating Mallorca: Uthyrning, charter, turer och evenemang",
+    "subtitle": "Upptack de basta battturerna, yachtchartrarna och vattenupplevelserna pa Palma de Mallorca och bortom. Var gratis matchningstjanst levererar 3 verifierade alternativ inom 24 timmar.",
+    "cta": "Hitta gratis",
+    "exploreTours": "Utforska turer"
+  },
+  "trust": {
+    "vetted": "Verifierade av batexperter",
+    "fast": "3 alternativ inom 24 timmar",
+    "free": "100% gratis tjanst",
+    "local": "Lokal Mallorca-kunskap"
+  },
+  "howItWorks": {
+    "title": "Sa har fungerar det",
+    "subtitle": "Att hitta den perfekta batupplevelsen pa Mallorca tar bara 3 enkla steg.",
+    "step1Title": "Skicka dina onskemol",
+    "step1Desc": "Beratta vad du soker: battyp, plats, budget, datum och gruppstorlek.",
+    "step2Title": "Vi matchar dig med verifierade leverantorer",
+    "step2Desc": "Vara experter valjer ut 3 personliga alternativ fran vart natverk av palitliga lokala leverantorer.",
+    "step3Title": "Kontakta och boka",
+    "step3Desc": "Fa dina forslag inom 24 timmar via e-post eller WhatsApp. Valj din favorit och boka direkt."
+  },
+  "services": {
+    "title": "Vara tjanster",
+    "subtitle": "Fran batuthyrning och yachtcharter till forankring och evenemang - vi matchar dig med de basta marina tjansterna pa Mallorca.",
+    "boatRentals": "Batuthyrning",
+    "boatRentalsDesc": "Motorbatar, katamaraner, snabbatar och mer fran marinor over hela on.",
+    "yachtCharters": "Yachtcharter",
+    "yachtChartersDesc": "Bareboat, med skeppare eller full besattning - lyxiga yachtupplevelser.",
+    "boatTours": "Batturer",
+    "boatToursDesc": "Solnedgangskryssningar, dagsutflykter, fiskeutflykter och guidade aventyr.",
+    "excursions": "Utflykter",
+    "excursionsDesc": "Kajakpaddling, SUP-turer, snorkling och ohopping runt Mallorca.",
+    "mooringMaint": "Forankring och underhall",
+    "mooringMaintDesc": "Marinplatser, batforvaring, vinterforvaring och reparationstjanster.",
+    "eventClubs": "Evenemang och klubbar",
+    "eventClubsDesc": "Batfester, regatter, yachtklubbar och vattensportsaktiviteter."
+  },
+  "destinations": {
+    "title": "Populara batdestinationer",
+    "subtitle": "Mallorca erbjuder mangfaldiga batupplevelser fran livliga marinor till avskilda vikar.",
+    "palma": "Palma de Mallorca",
+    "palmaDesc": "Huvudstaden och det viktigaste chartercentret med lyxmarinor och nara flygplatsen.",
+    "alcudia": "Alcudia",
+    "alcudiaDesc": "Skyddad vik perfekt for familjer, vattensport och nyborsegalare.",
+    "pollenca": "Port de Pollenca",
+    "pollencaDesc": "Charmig nordlig hamn med utmarkta seglingsforhallanden och bergsutsikt.",
+    "andratx": "Andratx",
+    "andratxDesc": "Vastra porten till den dramatiska Tramuntana-kusten och on Dragonera."
+  },
+  "guides": {
+    "title": "Batguider",
+    "subtitle": "Praktiska guider och lokal kunskap for att fa ut det basta av din tid pa vattnet."
+  },
+  "blog": {
+    "title": "Fran bloggen",
+    "subtitle": "Experttips, guider och insikter for ditt Mallorca-bataventyr."
+  }
+}

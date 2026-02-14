@@ -1,0 +1,48 @@
+{
+  "hub": {
+    "seoTitle": "Bootsfahrer-Ratgeber Mallorca - Lokales Expertenwissen | Boating Mallorca",
+    "seoDesc": "Umfassende Bootsratgeber fur Mallorca. Vorschriften, Kosten, Wetter, Angeln, Familienbootfahren und mehr.",
+    "heroTitle": "Bootsfahrer-Ratgeber",
+    "heroSubtitle": "Praktische Ratgeber und lokales Expertenwissen fur das Beste aus dem Bootfahren auf Mallorca."
+  },
+  "regulations": {
+    "title": "Bootsvorschriften",
+    "subtitle": "Alles uber Lizenzen, Regeln und gesetzliche Anforderungen fur das Bootfahren auf Mallorca."
+  },
+  "costs": {
+    "title": "Kostenratgeber",
+    "subtitle": "Umfassende Aufschlusselung der Kosten fur Bootsverleih, Charter, Liegeplatz und Besitz auf Mallorca."
+  },
+  "weather": {
+    "title": "Wetter- & Windratgeber",
+    "subtitle": "Saisonale Wettermuster, Windverhaltnisse und Sicherheitstipps fur das Bootfahren auf Mallorca."
+  },
+  "beaches": {
+    "title": "Nur-per-Boot-Strande",
+    "subtitle": "Entdecken Sie Mallorcas exklusivste Strande und Buchten, die nur per Boot erreichbar sind."
+  },
+  "dockAndDine": {
+    "title": "Anlegen & Speisen",
+    "subtitle": "Die besten Uferrestaurants und Einkehrmoglichkeiten, die per Boot erreichbar sind."
+  },
+  "snorkeling": {
+    "title": "Schnorcheln & Tauchen",
+    "subtitle": "Die besten Schnorchel- und Tauchplatze rund um Mallorca, per Boot erreichbar."
+  },
+  "fishing": {
+    "title": "Angel-Ratgeber",
+    "subtitle": "Kompletter Ratgeber zum Angeln auf Mallorca: Fischarten, Saisons, Vorschriften und beste Platze."
+  },
+  "family": {
+    "title": "Familien-Bootfahren",
+    "subtitle": "Familienfreundliche Bootstipps, Ziele und Aktivitaten auf Mallorca."
+  },
+  "winterStorage": {
+    "title": "Winterlager",
+    "subtitle": "Ratgeber zur Winterfestmachung und Lagerung Ihres Bootes auf Mallorca."
+  },
+  "provisioning": {
+    "title": "Proviantierungs-Ratgeber",
+    "subtitle": "Wo Sie Lebensmittel, Getranke und Vorrate fur Ihren Bootstrip auf Mallorca besorgen."
+  }
+}

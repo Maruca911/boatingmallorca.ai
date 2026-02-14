@@ -1,0 +1,31 @@
+{
+  "destinations": {
+    "seoTitle": "Destinos y fondeos nauticos Mallorca | Boating Mallorca",
+    "seoDesc": "Explore los mejores destinos y fondeos de Mallorca. Calas escondidas, bahias protegidas y puertos pintorescos.",
+    "heroTitle": "Destinos y fondeos",
+    "heroSubtitle": "Descubra los mejores destinos nauticos de Mallorca, desde puertos animados hasta calas secretas."
+  },
+  "marinas": {
+    "seoTitle": "Puertos deportivos Mallorca - Guia completa | Boating Mallorca",
+    "seoDesc": "Guia completa de puertos deportivos en Mallorca. Disponibilidad de amarres, instalaciones, precios y opiniones.",
+    "heroTitle": "Puertos deportivos",
+    "heroSubtitle": "Encuentre el puerto deportivo perfecto para su embarcacion en la costa de Mallorca."
+  },
+  "routes": {
+    "seoTitle": "Rutas de navegacion Mallorca | Boating Mallorca",
+    "seoDesc": "Planifique su ruta de navegacion en Mallorca con itinerarios detallados, waypoints y consejos locales.",
+    "heroTitle": "Rutas de navegacion",
+    "heroSubtitle": "Rutas seleccionadas alrededor de Mallorca con waypoints detallados y conocimiento local."
+  },
+  "directory": {
+    "seoTitle": "Directorio nautico Mallorca - Brokers, charter, servicios | Boating Mallorca",
+    "seoDesc": "Directorio completo de empresas nauticas en Mallorca. Brokers, empresas de charter, servicios y clubs.",
+    "heroTitle": "Directorio nautico",
+    "heroSubtitle": "Encuentre empresas y proveedores de servicios nauticos de confianza en Mallorca.",
+    "brokers": "Brokers y distribuidores",
+    "charterCompanies": "Empresas de charter",
+    "brands": "Marcas y astilleros",
+    "marineServices": "Servicios nauticos",
+    "yachtClubs": "Clubs nauticos"
+  }
+}

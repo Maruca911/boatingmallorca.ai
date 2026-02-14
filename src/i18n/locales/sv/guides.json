@@ -1,0 +1,48 @@
+{
+  "hub": {
+    "seoTitle": "Batguider Mallorca - Lokal expertkunskap | Boating Mallorca",
+    "seoDesc": "Omfattande batguider for Mallorca. Regler, kostnader, vader, fiske, familjebatliv och mer.",
+    "heroTitle": "Batguider",
+    "heroSubtitle": "Praktiska guider och lokal expertkunskap for att fa ut det basta av batlivet pa Mallorca."
+  },
+  "regulations": {
+    "title": "Batregler",
+    "subtitle": "Allt om licenser, regler och lagkrav for batliv pa Mallorca."
+  },
+  "costs": {
+    "title": "Kostnadsguide",
+    "subtitle": "Fullstandig nedbrytning av kostnader for uthyrning, charter, forankring och battagande pa Mallorca."
+  },
+  "weather": {
+    "title": "Vader- och vindguide",
+    "subtitle": "Sasongsvader, vindforhallanden och sakerhetstips for batliv pa Mallorca."
+  },
+  "beaches": {
+    "title": "Batatkomliga strander",
+    "subtitle": "Upptack Mallorcas mest exklusiva strander och vikar som bara ar atkomliga med bat."
+  },
+  "dockAndDine": {
+    "title": "Ankra och at",
+    "subtitle": "De basta sjosidarestaurangerna som ar atkomliga med bat pa Mallorca."
+  },
+  "snorkeling": {
+    "title": "Snorkling och dykning",
+    "subtitle": "De basta snorklings- och dykplatserna runt Mallorca, atkomliga med bat."
+  },
+  "fishing": {
+    "title": "Fiskeguide",
+    "subtitle": "Komplett fiskeguide for Mallorca: arter, sasonger, regler och basta platser."
+  },
+  "family": {
+    "title": "Familjebatliv",
+    "subtitle": "Familjevanliga battips, destinationer och aktiviteter pa Mallorca."
+  },
+  "winterStorage": {
+    "title": "Vinterforvaring",
+    "subtitle": "Guide till vinterforvaring och lagring av din bat pa Mallorca."
+  },
+  "provisioning": {
+    "title": "Provianteringsguide",
+    "subtitle": "Var du koper mat, dryck och fornodenhet for din batresa pa Mallorca."
+  }
+}

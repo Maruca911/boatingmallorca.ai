@@ -1,0 +1,77 @@
+# Netlify Configuration for Boating Mallorca
+# https://docs.netlify.com/configure-builds/file-based-configuration/
+
+[build]
+# Build command to generate production bundle
+command = "npm run build"
+
+# Directory containing the built application
+publish = "dist"
+
+# Node.js version for build
+node_version = "18.19.0"
+
+# Environment for build process
+environment = { NODE_ENV = "production" }
+
+# Functions directory (if using Netlify Functions)
+functions = "netlify/functions"
+
+[context.production]
+command = "npm run build"
+publish = "dist"
+
+[context.deploy-preview]
+command = "npm run build"
+publish = "dist"
+
+[context.branch-deploy]
+command = "npm run build"
+publish = "dist"
+
+# Redirect rules for single-page application (SPA) routing
+# React Router requires client-side routing to work properly
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
+
+# Cache headers for static assets
+[[headers]]
+for = "dist/assets/*"
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+X-Content-Type-Options = "nosniff"
+
+# Cache headers for HTML
+[[headers]]
+for = "dist/index.html"
+[headers.values]
+Cache-Control = "public, max-age=3600, must-revalidate"
+X-Content-Type-Options = "nosniff"
+
+# Cache headers for blog posts and public assets
+[[headers]]
+for = "dist/blog/*"
+[headers.values]
+Cache-Control = "public, max-age=86400"
+
+# Security headers
+[[headers]]
+for = "/*"
+[headers.values]
+X-Frame-Options = "SAMEORIGIN"
+X-Content-Type-Options = "nosniff"
+X-XSS-Protection = "1; mode=block"
+Referrer-Policy = "strict-origin-when-cross-origin"
+Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+
+# Error handling
+[[error]]
+path = "/index.html"
+status = 404
+
+[[error]]
+path = "/index.html"
+status = 500

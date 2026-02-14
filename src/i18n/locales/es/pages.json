@@ -1,0 +1,144 @@
+{
+  "rentals": {
+    "seoTitle": "Alquiler de barcos y charter de yates en Mallorca | Boating Mallorca",
+    "seoDesc": "Compare alquileres de barcos y charter de yates en Mallorca. Desde lanchas hasta yates de lujo, encuentre el barco perfecto.",
+    "heroTitle": "Alquiler de barcos y charter de yates en Mallorca",
+    "heroSubtitle": "Encuentre el barco perfecto para su aventura en Mallorca. Desde lanchas pequenas hasta yates de lujo con tripulacion.",
+    "heroCta": "Buscar alquiler",
+    "typesTitle": "Tipos de alquiler y precios",
+    "typesSubtitle": "Mallorca ofrece una amplia gama de alquileres de barcos para todos los presupuestos y niveles de experiencia.",
+    "vesselType": "Tipo de embarcacion",
+    "location": "Ubicacion",
+    "features": "Caracteristicas",
+    "bestFor": "Ideal para",
+    "charterTitle": "Opciones de charter explicadas",
+    "licenseTitle": "Necesito licencia nautica en Mallorca?",
+    "licenseText": "En Espana, los barcos de mas de 6 metros o con motores de mas de 15 CV requieren licencia nautica valida. La cualificacion internacional mas aceptada es el ICC (Certificado Internacional de Competencia). Para embarcaciones menores, no se necesita licencia.",
+    "licenseLink": "Guia completa de regulaciones",
+    "locationsTitle": "Ubicaciones de alquiler en Mallorca",
+    "ctaTitle": "Encuentre su alquiler o charter perfecto",
+    "ctaSubtitle": "Diganos lo que necesita y le conectaremos con 3 proveedores verificados en 24 horas. Completamente gratis.",
+    "ctaButton": "Buscar alquiler y charter"
+  },
+  "tours": {
+    "seoTitle": "Tours en barco Mallorca - Cruceros, excursiones y mas | Boating Mallorca",
+    "seoDesc": "Descubra los mejores tours y excursiones en barco en Mallorca. Cruceros al atardecer, pesca, SUP y excursiones a islas.",
+    "heroTitle": "Tours en barco Mallorca: Cruceros, excursiones y aventuras",
+    "heroSubtitle": "Viva Mallorca desde el agua con tours guiados, cruceros al atardecer, charters de pesca y excursiones de aventura.",
+    "heroCta": "Buscar tours",
+    "typesTitle": "Tipos de tours",
+    "typesSubtitle": "Mallorca ofrece tours en barco y excursiones acuaticas para todos los gustos y niveles de experiencia.",
+    "priceTitle": "Guia de precios",
+    "tourType": "Tipo de tour",
+    "perPerson": "Por persona (compartido)",
+    "privateCharter": "Charter privado",
+    "seasonTitle": "Mejor epoca para tours en barco",
+    "activitiesTitle": "Actividades en el agua",
+    "ctaTitle": "Encuentre su tour en barco perfecto",
+    "ctaSubtitle": "Diganos su experiencia ideal y le buscaremos 3 operadores verificados. Gratis, rapido y personalizado.",
+    "ctaButton": "Buscar tours"
+  },
+  "mooring": {
+    "seoTitle": "Amarre, puerto y mantenimiento nautico Mallorca | Boating Mallorca",
+    "seoDesc": "Encuentre amarres, servicios de mantenimiento y almacenamiento invernal en Mallorca.",
+    "heroTitle": "Amarre, puerto y mantenimiento nautico en Mallorca",
+    "heroSubtitle": "Encuentre el amarre perfecto, mantenimiento fiable y cuidado profesional para su embarcacion.",
+    "heroCta": "Buscar servicios"
+  },
+  "events": {
+    "seoTitle": "Eventos nauticos, clubs y deportes acuaticos Mallorca | Boating Mallorca",
+    "seoDesc": "Descubra clubs nauticos, regatas, fiestas en barco y eventos deportivos en Mallorca.",
+    "heroTitle": "Eventos nauticos, clubs y deportes acuaticos",
+    "heroSubtitle": "Unase a la vibrante comunidad nautica de Mallorca. Desde regatas de clase mundial hasta encuentros sociales.",
+    "heroCta": "Buscar eventos"
+  },
+  "buyYacht": {
+    "seoTitle": "Comprar un yate en Mallorca - Guia completa | Boating Mallorca",
+    "seoDesc": "Encuentre y compre el yate de sus suenos en Mallorca. Guia experta, analisis de mercado y opciones de financiacion.",
+    "heroTitle": "Compre el yate de sus suenos en Mallorca",
+    "heroSubtitle": "Guia completa para la compra de yates, analisis de inversion y conexion con vendedores y brokers verificados.",
+    "heroCta": "Buscar vendedores",
+    "typesTitle": "Tipos de yates y precios",
+    "typesSubtitle": "El mercado de Mallorca ofrece opciones diversas desde RIBs asequibles hasta superyates de lujo.",
+    "buyingTitle": "Proceso de compra en 6 pasos",
+    "investTitle": "El yate como inversion",
+    "investSubtitle": "Muchos compradores ven la propiedad de un yate como estilo de vida e inversion. El mercado de charter de Mallorca ofrece fuerte potencial de ingresos.",
+    "costsTitle": "Costes esenciales mas alla del precio de compra",
+    "annualCosts": "Costes anuales de propiedad",
+    "oneTimeCosts": "Costes unicos de compra",
+    "locationsTitle": "Ubicaciones populares de compra en Mallorca",
+    "readyTitle": "Listo para encontrar su embarcacion?",
+    "readySubtitle": "Nuestro servicio conecta compradores con vendedores, brokers y socios financieros verificados en Mallorca.",
+    "readyCta": "Iniciar busqueda de yate"
+  },
+  "sellYacht": {
+    "seoTitle": "Vender su yate en Mallorca - Listado y busqueda gratuitos | Boating Mallorca",
+    "seoDesc": "Venda su yate en Mallorca con nuestro servicio gratuito de busqueda y listado.",
+    "heroTitle": "Venda su yate en Mallorca",
+    "heroSubtitle": "Conectese con compradores verificados y brokers profesionales a traves de nuestro servicio gratuito.",
+    "heroCta": "Buscar compradores"
+  },
+  "crewJobs": {
+    "seoTitle": "Empleo de tripulacion y posiciones en yates Mallorca | Boating Mallorca",
+    "seoDesc": "Encuentre posiciones de tripulacion, empleos de capitan y oportunidades maritimas en Mallorca.",
+    "heroTitle": "Empleo de tripulacion y carreras maritimas en Mallorca",
+    "heroSubtitle": "Explore posiciones de tripulacion, oportunidades de capitan y carreras maritimas en la industria nautica de Mallorca.",
+    "heroCta": "Buscar oportunidades"
+  },
+  "ribClub": {
+    "seoTitle": "RIB Club Mallorca - Membresia premium | Boating Mallorca",
+    "seoDesc": "Unase a nuestro exclusivo RIB Club para acceso premium a embarcaciones, eventos y comunidad en Mallorca.",
+    "heroTitle": "RIB Club Mallorca",
+    "heroSubtitle": "Membresia premium para entusiastas de RIBs. Acceso compartido, eventos exclusivos y comunidad nautica.",
+    "heroCta": "Informacion sobre membresia"
+  },
+  "faq": {
+    "seoTitle": "FAQ Boating Mallorca - Respuestas sobre alquiler, tours, charter y mas",
+    "seoDesc": "Respuestas a mas de 50 preguntas frecuentes sobre navegacion en Mallorca.",
+    "heroTitle": "FAQ Boating Mallorca",
+    "heroSubtitle": "Respuestas a sus preguntas sobre alquiler de barcos, charter de yates, tours, amarre, licencias y seguridad en Mallorca.",
+    "ctaTitle": "Aun tiene preguntas?",
+    "ctaSubtitle": "Nuestro equipo de expertos nauticos locales esta aqui para ayudarle. Envie su pregunta y le responderemos en 24 horas.",
+    "ctaButton": "Preguntenos"
+  },
+  "blog": {
+    "seoTitle": "Blog nautico Mallorca - Consejos, guias y noticias | Boating Mallorca",
+    "seoDesc": "Lea los ultimos consejos, guias y noticias sobre navegacion en Mallorca.",
+    "heroTitle": "Blog Boating Mallorca",
+    "heroSubtitle": "Consejos de expertos, guias detalladas y las ultimas noticias de la escena nautica de Mallorca."
+  },
+  "getMatched": {
+    "seoTitle": "Busqueda gratuita - Alquiler, tours y charter Mallorca | Boating Mallorca",
+    "seoDesc": "Envie sus preferencias y reciba 3 opciones personalizadas de proveedores verificados en Mallorca en 24 horas.",
+    "heroTitle": "Encuentre lo mejor de la nautica en Mallorca",
+    "heroSubtitle": "Diganos lo que busca y nuestros expertos locales seleccionaran 3 opciones personalizadas de proveedores verificados.",
+    "whyTitle": "Por que usar nuestro servicio",
+    "benefit1Title": "Solo proveedores verificados",
+    "benefit1Text": "Cada proveedor de nuestra red esta verificado y evaluado por nuestro equipo local.",
+    "benefit2Title": "Respuesta en 24 horas",
+    "benefit2Text": "Reciba 3 opciones personalizadas en 24 horas.",
+    "benefit3Title": "Servicio 100% gratuito",
+    "benefit3Text": "Nuestro servicio es completamente gratuito. Sin costes ocultos.",
+    "benefit4Title": "Experiencia local",
+    "benefit4Text": "Nuestro equipo vive y respira la nautica en Mallorca. Conocemos personalmente a los mejores proveedores.",
+    "howTitle": "Como funciona",
+    "how1": "Complete el formulario con sus preferencias",
+    "how2": "Nuestro equipo revisa y selecciona 3 opciones",
+    "how3": "Recibe opciones por email o WhatsApp en 24 horas",
+    "how4": "Elija su favorito y reserve directamente con el proveedor"
+  },
+  "privacy": {
+    "title": "Politica de privacidad"
+  },
+  "terms": {
+    "title": "Terminos de servicio"
+  },
+  "imprint": {
+    "title": "Aviso legal"
+  },
+  "notFound": {
+    "title": "Pagina no encontrada",
+    "subtitle": "La pagina que busca no existe o ha sido movida.",
+    "backHome": "Volver al inicio"
+  }
+}

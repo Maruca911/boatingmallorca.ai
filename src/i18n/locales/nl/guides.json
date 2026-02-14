@@ -1,0 +1,48 @@
+{
+  "hub": {
+    "seoTitle": "Bootgidsen Mallorca - Lokale expertkennis | Boating Mallorca",
+    "seoDesc": "Uitgebreide bootgidsen voor Mallorca. Regelgeving, kosten, weer, vissen, familievaren en meer.",
+    "heroTitle": "Bootgidsen",
+    "heroSubtitle": "Praktische gidsen en lokale expertkennis om het meeste uit het varen op Mallorca te halen."
+  },
+  "regulations": {
+    "title": "Bootregelgeving",
+    "subtitle": "Alles over licenties, regels en wettelijke vereisten voor varen op Mallorca."
+  },
+  "costs": {
+    "title": "Kostengids",
+    "subtitle": "Volledige uitsplitsing van kosten voor verhuur, charter, ligplaats en bootbezit op Mallorca."
+  },
+  "weather": {
+    "title": "Weer- en windgids",
+    "subtitle": "Seizoensgebonden weerspatronen, windomstandigheden en veiligheidstips voor varen op Mallorca."
+  },
+  "beaches": {
+    "title": "Boot-only stranden",
+    "subtitle": "Ontdek Mallorca's meest exclusieve stranden en baaien die alleen per boot bereikbaar zijn."
+  },
+  "dockAndDine": {
+    "title": "Aanleggen en dineren",
+    "subtitle": "De beste restaurants aan het water bereikbaar per boot op Mallorca."
+  },
+  "snorkeling": {
+    "title": "Snorkelen en duiken",
+    "subtitle": "De beste snorkel- en duikplekken rond Mallorca, bereikbaar per boot."
+  },
+  "fishing": {
+    "title": "Visgids",
+    "subtitle": "Complete visgids voor Mallorca: soorten, seizoenen, regelgeving en beste plekken."
+  },
+  "family": {
+    "title": "Familievaren",
+    "subtitle": "Gezinsvriendelijke vaartips, bestemmingen en activiteiten op Mallorca."
+  },
+  "winterStorage": {
+    "title": "Winterstalling",
+    "subtitle": "Gids voor winterklaar maken en opslag van uw boot op Mallorca."
+  },
+  "provisioning": {
+    "title": "Bevoorrading",
+    "subtitle": "Waar u eten, drinken en benodigdheden koopt voor uw boottocht op Mallorca."
+  }
+}

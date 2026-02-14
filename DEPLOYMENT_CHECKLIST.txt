@@ -1,0 +1,281 @@
+================================================================================
+BOATING MALLORCA - NETLIFY DEPLOYMENT CHECKLIST
+================================================================================
+
+DEPLOYMENT STATUS: ✅ READY
+
+This checklist guides you through the final deployment steps.
+
+================================================================================
+STEP 1: PRE-DEPLOYMENT VERIFICATION (5 minutes)
+================================================================================
+
+Before connecting to Netlify:
+
+[✅] Code is built successfully
+     Command: npm run build
+     Expected: ✓ built in ~12 seconds
+
+[✅] TypeScript has no errors
+     Command: npm run typecheck
+     Expected: No output (success)
+
+[✅] All routes are configured
+     Pages: 11 main pages + 15 blog posts
+
+[✅] Supabase tables created
+     Tables: lead_captures, rib_club_applications, cta_clicks, etc.
+
+[✅] netlify.toml file exists
+     Location: Project root (netlify.toml)
+     Key configs: SPA redirect, security headers, caching
+
+================================================================================
+STEP 2: CONNECT TO NETLIFY (5 minutes)
+================================================================================
+
+1. Go to https://netlify.com (sign up if needed)
+
+2. Click "New site from Git" (top right)
+
+3. Choose your Git provider:
+   [ ] GitHub
+   [ ] GitLab
+   [ ] Bitbucket
+
+4. Authorize Netlify to access your account
+
+5. Select this repository:
+   Repo: boating-mallorca (or your fork name)
+   Branch: main (or your default branch)
+
+6. Click "Deploy"
+
+Expected: Netlify will show "Site is loading..."
+Wait 2-3 minutes for build to complete
+
+================================================================================
+STEP 3: SET ENVIRONMENT VARIABLES (2 minutes)
+================================================================================
+
+CRITICAL: Must do this BEFORE first deployment can work
+
+1. Go to: Site Settings > Build & deploy > Environment
+
+2. Add these TWO environment variables:
+
+   Name: VITE_SUPABASE_URL
+   Value: https://zrhzhnjwqkwsnrwykgws.supabase.co
+
+   Name: VITE_SUPABASE_ANON_KEY
+   Value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpyaHpobmp3cWt3c25yd3lrZ3dzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzEwMjgxNDksImV4cCI6MjA4NjYwNDE0OX0.Q-ftadDYg9MmqFS-pxzKaOG9wUmk4NErexJ5uvp76gw
+
+3. Click "Trigger deploy" (or push a commit to re-deploy)
+
+Expected: Build will retry with environment variables set
+
+================================================================================
+STEP 4: WAIT FOR DEPLOYMENT (3 minutes)
+================================================================================
+
+Netlify will:
+
+[ ] Clone repository
+[ ] Install dependencies (npm install)
+[ ] Build project (npm run build)
+[ ] Deploy to CDN
+[ ] Generate preview URL
+
+You should see: "Netlify App" with a domain like:
+  https://[random-name].netlify.app
+
+Click this URL to verify your site is live
+
+================================================================================
+STEP 5: VERIFY DEPLOYMENT (5 minutes)
+================================================================================
+
+Test these critical items:
+
+Navigation:
+[ ] Homepage loads (/​)
+[ ] Services dropdown appears in header
+[ ] All 7 service pages load:
+    - /rentals-charters
+    - /tours-excursions
+    - /mooring-maintenance
+    - /events-clubs
+    - /buy-yacht ← NEW
+    - /sell-yacht ← NEW
+    - /crew-jobs ← NEW
+    - /rib-club ← NEW
+
+Pages:
+[ ] FAQ page loads (/faq)
+[ ] Blog page loads (/blog)
+[ ] Individual blog posts load (/blog/[slug])
+[ ] Get Matched form page loads (/get-matched)
+
+Forms:
+[ ] Get Matched form opens
+[ ] Can select service type
+[ ] Can fill out preferences
+[ ] Can submit form
+[ ] Success message appears
+[ ] (Check Supabase to verify data was saved)
+
+Errors:
+[ ] No 404 errors on direct navigation
+[ ] No console errors in DevTools (F12)
+[ ] No TypeScript errors
+[ ] Mobile view works (resize browser)
+
+================================================================================
+STEP 6: SET CUSTOM DOMAIN (Optional, 10 minutes)
+================================================================================
+
+If using boatingmallorca.ai domain:
+
+1. Go to: Site Settings > Domain management
+
+2. Click "Add custom domain"
+
+3. Enter: boatingmallorca.ai
+
+4. Netlify will show DNS records to add
+
+5. Go to your domain registrar (GoDaddy, Namecheap, etc)
+
+6. Update nameservers to Netlify's:
+   (Netlify will provide exact nameservers)
+
+7. Wait 24-48 hours for propagation
+
+8. SSL certificate will auto-generate (no action needed)
+
+Expected: Site available at https://boatingmallorca.ai/
+
+================================================================================
+STEP 7: CONTINUOUS MONITORING (Ongoing)
+================================================================================
+
+First 24 hours:
+[ ] Monitor Netlify logs for errors
+[ ] Check Supabase Studio for incoming leads
+[ ] Verify form emails/notifications working
+[ ] Monitor page load times
+
+Weekly:
+[ ] Check Netlify Analytics
+[ ] Review Supabase database for new leads
+[ ] Monitor error rates
+[ ] Check page performance
+
+Monthly:
+[ ] Review Google Analytics (if set up)
+[ ] Analyze user behavior
+[ ] Plan feature updates
+[ ] Security audit
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+ISSUE: Build fails with "npm ERR!"
+FIX:
+  1. Check build logs in Netlify dashboard
+  2. Verify Node version is compatible
+  3. Run locally: npm install && npm run build
+  4. Fix any errors locally before pushing
+
+ISSUE: Page returns 404 on direct navigation
+FIX:
+  1. netlify.toml is missing SPA redirect
+  2. Verify netlify.toml exists in project root
+  3. Check for typos in redirect rules
+  4. Deploy again: trigger deploy from Netlify dashboard
+
+ISSUE: Forms not submitting / "Error submitting form"
+FIX:
+  1. Check environment variables are set in Netlify
+  2. Verify VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY
+  3. Check Supabase RLS policies are correct
+  4. Check browser console for error details
+
+ISSUE: Environment variables not being recognized
+FIX:
+  1. Variable names must start with VITE_ (for Vite)
+  2. Redeploy after adding variables
+  3. Clear browser cache (Ctrl+Shift+Delete)
+  4. Check Netlify build logs to confirm variables loaded
+
+ISSUE: CSS/styling looks wrong
+FIX:
+  1. Clear browser cache completely
+  2. Check if fonts loaded (Google Fonts CDN)
+  3. Open DevTools (F12) to inspect elements
+  4. Check Tailwind CSS is properly compiled
+
+================================================================================
+IMPORTANT REMINDERS
+================================================================================
+
+⚠️  Do NOT commit .env file to repository after deployment
+    Environment variables should only be in Netlify dashboard
+
+⚠️  netlify.toml must exist at project root
+    This file contains critical SPA routing configuration
+
+⚠️  Set BOTH Supabase environment variables
+    Missing either one will cause form submission errors
+
+⚠️  Database tables must exist in Supabase
+    Schema is created via migrations (already done)
+
+⚠️  Supabase RLS policies are restrictive by default
+    Forms can only write to specific tables with correct policies
+
+================================================================================
+SUCCESS CRITERIA
+================================================================================
+
+Deployment is successful when:
+
+✅ All pages load without errors
+✅ Navigation menu works and shows 7 services
+✅ Forms submit and data appears in Supabase
+✅ Blog posts are accessible and indexed by search engines
+✅ Mobile responsive design works
+✅ No console errors in DevTools
+✅ SSL certificate shows as valid (https://)
+✅ Netlify shows "Published" status
+
+================================================================================
+QUICK LINKS
+================================================================================
+
+Netlify Dashboard: https://app.netlify.com
+Supabase Studio: https://supabase.com/dashboard
+Deployment Audit: See NETLIFY_DEPLOYMENT_AUDIT.md
+Deployment Summary: See DEPLOYMENT_SUMMARY.md
+
+================================================================================
+ESTIMATED TIMELINE
+================================================================================
+
+Setup & Connection:     5 minutes
+Environment Variables: 2 minutes
+Deployment & Build:    3-5 minutes
+Verification:          5-10 minutes
+─────────────────────────────────
+Total Time to Live:    15-25 minutes
+
+================================================================================
+END OF CHECKLIST
+================================================================================
+
+Once verified, your application is live and production-ready!
+
+Next steps: Monitor for errors, analyze user behavior, plan feature updates.
+
+Questions? Check the detailed audit report: NETLIFY_DEPLOYMENT_AUDIT.md

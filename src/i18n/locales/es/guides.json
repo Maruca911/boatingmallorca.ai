@@ -1,0 +1,48 @@
+{
+  "hub": {
+    "seoTitle": "Guias nauticas Mallorca - Conocimiento experto local | Boating Mallorca",
+    "seoDesc": "Guias nauticas completas para Mallorca. Regulaciones, costes, meteorologia, pesca, navegacion familiar y mas.",
+    "heroTitle": "Guias nauticas",
+    "heroSubtitle": "Guias practicas y conocimiento experto local para aprovechar al maximo la navegacion en Mallorca."
+  },
+  "regulations": {
+    "title": "Regulaciones nauticas",
+    "subtitle": "Todo lo que necesita saber sobre licencias, normas y requisitos legales para navegar en Mallorca."
+  },
+  "costs": {
+    "title": "Guia de costes",
+    "subtitle": "Desglose completo de costes de alquiler, charter, amarre y propiedad de embarcaciones en Mallorca."
+  },
+  "weather": {
+    "title": "Guia meteorologica",
+    "subtitle": "Patrones meteorologicos estacionales, condiciones de viento y consejos de seguridad para navegar en Mallorca."
+  },
+  "beaches": {
+    "title": "Playas solo en barco",
+    "subtitle": "Descubra las playas y calas mas exclusivas de Mallorca, accesibles solo por mar."
+  },
+  "dockAndDine": {
+    "title": "Amarrar y comer",
+    "subtitle": "Los mejores restaurantes frente al mar accesibles en barco en toda Mallorca."
+  },
+  "snorkeling": {
+    "title": "Snorkel y buceo",
+    "subtitle": "Los mejores puntos de snorkel y buceo alrededor de Mallorca accesibles en barco."
+  },
+  "fishing": {
+    "title": "Guia de pesca",
+    "subtitle": "Guia completa de pesca en Mallorca: especies, temporadas, regulaciones y mejores puntos."
+  },
+  "family": {
+    "title": "Navegacion familiar",
+    "subtitle": "Consejos, destinos y actividades para navegacion en familia en Mallorca."
+  },
+  "winterStorage": {
+    "title": "Almacenamiento invernal",
+    "subtitle": "Guia para invernaje y almacenamiento de su barco en Mallorca durante la temporada baja."
+  },
+  "provisioning": {
+    "title": "Guia de aprovisionamiento",
+    "subtitle": "Donde comprar comida, bebidas y suministros para su viaje nautico en Mallorca."
+  }
+}
