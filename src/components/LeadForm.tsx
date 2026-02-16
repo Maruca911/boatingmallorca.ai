@@ -1,7 +1,9 @@
 import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Ship, MapPin, Users, Calendar, ArrowRight, ArrowLeft, CheckCircle, Loader2 } from 'lucide-react';
-import { supabase } from '../lib/supabase';
+import { isBackendEnabled, supabase } from '../lib/supabase';
+
+const BACKEND_DISABLED_NOTICE = 'Lead and newsletter submissions are temporarily unavailable while we complete backend setup. Please check back shortly.';
 
 const serviceKeys = [
   { value: 'rental', labelKey: 'lead.serviceRental', icon: Ship },
@@ -34,7 +36,7 @@ interface LeadFormProps {
 export default function LeadForm({ preselectedService }: LeadFormProps) {
   const { t, i18n } = useTranslation('forms');
   const [step, setStep] = useState(preselectedService ? 2 : 1);
-  const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
+  const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error' | 'disabled'>('idle');
   const [form, setForm] = useState({
     service_type: preselectedService || '',
     boat_type: '',
@@ -56,6 +58,10 @@ export default function LeadForm({ preselectedService }: LeadFormProps) {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    if (!isBackendEnabled || !supabase) {
+      setStatus('disabled');
+      return;
+    }
     setStatus('loading');
 
     const nameParts = form.name.split(' ');
@@ -88,6 +94,7 @@ export default function LeadForm({ preselectedService }: LeadFormProps) {
 
   return (
     <form onSubmit={handleSubmit} className="w-full">
+      <fieldset disabled={!isBackendEnabled} className={!isBackendEnabled ? 'opacity-70' : ''}>
       <div className="flex items-center justify-center gap-2 mb-8">
         {[1, 2, 3].map((s) => (
           <div key={s} className="flex items-center gap-2">
@@ -302,6 +309,10 @@ export default function LeadForm({ preselectedService }: LeadFormProps) {
             <p className="text-center text-red-500 text-sm mt-2">{t('lead.errorMessage')}</p>
           )}
         </div>
+      )}
+      </fieldset>
+      {(!isBackendEnabled || status === 'disabled') && (
+        <p className="text-amber-700 text-sm mt-3">{BACKEND_DISABLED_NOTICE}</p>
       )}
     </form>
   );
