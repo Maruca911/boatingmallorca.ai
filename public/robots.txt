@@ -2,6 +2,8 @@ User-agent: *
 Allow: /
 
 Sitemap: https://boatingmallorca.ai/sitemap.xml
+LLMs: https://boatingmallorca.ai/llms.txt
+LLM: https://boatingmallorca.ai/llm.txt
 
 User-agent: GPTBot
 Allow: /

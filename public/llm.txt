@@ -1,0 +1,6 @@
+# LLM pointer for Boating Mallorca
+
+This site provides its full crawler index at:
+https://boatingmallorca.ai/llms.txt
+
+Use that file as the primary machine-readable reference.

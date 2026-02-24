@@ -33,6 +33,11 @@ const legalLinks = [
   { labelKey: 'footer.imprint', path: '/imprint' },
 ];
 
+const SOCIAL_LINKS = {
+  instagram: 'https://www.instagram.com/boatingmallorca/',
+  x: 'https://x.com/boatingmallorca',
+};
+
 export default function Footer() {
   const { t } = useTranslation();
 
@@ -96,10 +101,10 @@ export default function Footer() {
               ))}
             </ul>
             <div className="flex gap-3 mt-6">
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center hover:bg-accent-500 transition-colors" aria-label="Instagram">
+              <a href={SOCIAL_LINKS.instagram} target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center hover:bg-accent-500 transition-colors" aria-label="Instagram">
                 <Instagram className="w-4 h-4" />
               </a>
-              <a href="https://x.com" target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center hover:bg-accent-500 transition-colors" aria-label="X / Twitter">
+              <a href={SOCIAL_LINKS.x} target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center hover:bg-accent-500 transition-colors" aria-label="X / Twitter">
                 <Twitter className="w-4 h-4" />
               </a>
             </div>
@@ -110,6 +115,12 @@ export default function Footer() {
             <p className="text-sm text-gray-300 mb-4">{t('footer.newsletterDesc')}</p>
             <NewsletterForm />
           </div>
+        </div>
+
+        <div className="border-t border-white/10 mt-10 pt-6">
+          <p className="text-xs text-gray-400 leading-relaxed max-w-4xl">
+            AI Content Disclaimer: Parts of this website, including guides, listings, and FAQs, are created with assistance from artificial intelligence and reviewed by our editorial team. We recommend verifying prices, availability, route conditions, and regulatory details directly with licensed providers before booking.
+          </p>
         </div>
 
         <div className="border-t border-white/10 mt-12 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
